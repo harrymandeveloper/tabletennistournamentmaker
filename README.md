@@ -11,7 +11,9 @@ Contents
 
 - Clone or download and run `npm install`
 
+# App Design
 
+- Available here: bit.ly/ttennistourndoc
 
 # Project Brief
  
@@ -43,9 +45,17 @@ You should upload your completed solution to your developme web space or elsewhe
 
 For this challenge I have chosen to use a combination of react and redux. If there is time, I will add a Laravel back-end with an API.
 
-While not very lightweight and reliant on JavaScript, React does also allow for a seamless transition for the user between five states: 
+While not very lightweight and reliant on JavaScript, React does also allow for a seamless transition for the user between the five stages of the tournament described in the brief:
+
 Name Entry --> Quarter Finals --> Semi-Finals --> Finals --> Winning Page.
+
+Within each stage, there is both a shuffle of names and a pair creation required.
+
 
 # Stretch Goals
 
+Move App into components folder.
 Change routing to alter headers depending on what page the user is on within the app.
+Bronze play-off match.
+Ability to delete players.
+Add a description of contents within CSS files.
