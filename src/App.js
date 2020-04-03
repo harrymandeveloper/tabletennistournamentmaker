@@ -3,25 +3,24 @@ import Footer from './components/Footer.js';
 import FourOhFour from './components/FourOhFour.js';
 import Header from './components/Header.js';
 import Player from './components/Player.js';
-
-
 import {
   BrowserRouter as Router, 
   Switch, 
   // Route,
 } from "react-router-dom";
+import ListPlayers from './components/ListPlayers.js';
 
-const App = () => {
-  return (
+function App() {
+  
+  return(
     <Router>
-      <div className="wrapper">
       <Header />
       <Switch>
     <Player />
+    <ListPlayers />
     <FourOhFour />
     </ Switch>
       <Footer />
-      </div>
     </Router >
     )
 

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { Button, Form, Row } from 'react-bootstrap'
+import { Button, Form, Row } from 'react-bootstrap';
+
 
 class Player extends Component {
   constructor(props) {
