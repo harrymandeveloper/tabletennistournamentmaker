@@ -10,7 +10,7 @@ class Footer extends Component {
             <>  
                 <footer>
                 <center><small className="col-md-12 text-center block"> &copy; 2020  
-                    Harry Man. All Rights Reserved.</small></center> 
+                    Major General Players DSO, All Rights Reserved.</small></center> 
                 </footer>
             </>
         );
