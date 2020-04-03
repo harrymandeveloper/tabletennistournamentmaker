@@ -2,6 +2,11 @@ body p {
     font-family: 'Quicksand', sans-serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
+
 Button {
 margin-left: 0.75rem;
 margin-bottom: 0.75rem;
@@ -33,3 +38,24 @@ background-image: linear-gradient(to bottom right, rgb(22, 60, 4), rgb(11, 101, 
     max-width:900px;
     margin: 0 auto;
 }
+
+
+.contenders {
+    display: inline-block;
+    box-sizing: border-box;
+    }
+    
+.contenders li:nth-child(odd) {
+    font-size: 8rem;
+
+    }
+
+.contenders li:nth-child(even):before{
+    content: "Vs";
+    
+}
+    
+.contenders li:nth-child(even) {
+    font-size: 8rem;
+    }
+    

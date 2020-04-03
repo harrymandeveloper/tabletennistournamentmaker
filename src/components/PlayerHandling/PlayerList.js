@@ -4,15 +4,17 @@ import { Container } from 'react-bootstrap'
 export default ( { players } ) => {
 
     return (
-        <Container>
+        <Container className="contenders">
             <ul>
-                {players.map((player,i) => (
+                {players.map((player, i) => (
                     <li key={i}>
                         <p> { player } </p>
                     </li>
                 ))}
             </ul>
         </Container>
+
     )
 
 }
+

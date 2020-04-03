@@ -9,6 +9,8 @@ import {
 } from "react-router-dom";
 import PlayerList from './components/PlayerHandling/PlayerList.js';
 import SetupPlayers from './components/PlayerHandling/SetupPlayers.js';
+import TournamentTable from './components/TournamentHandling/TournamentTable.js';
+
 
 function App() {
   
@@ -20,6 +22,7 @@ function App() {
     <SetupPlayers />
   </Route>
     <PlayerList />
+  <TournamentTable />
     <FourOhFour />
     </ Switch>
       <Footer />

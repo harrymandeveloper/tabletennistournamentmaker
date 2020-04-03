@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import CreateNewPlayer from './CreateNewPlayer'
 import PlayerList from  './PlayerList'
-import { Button } from 'react-bootstrap';
+// import { Button } from 'react-bootstrap';
 
 const SetupPlayers = ( { handleSubmit } ) => {
     
@@ -18,13 +18,13 @@ const SetupPlayers = ( { handleSubmit } ) => {
     return (
         <>
           <CreateNewPlayer addPlayer = { addPlayer } />
-          {playerList.length === 0 || playerList.length % 2 !== 0 ? null 
-            : (<>
           <PlayerList players= { playerList } />
+          {/* {playerList.length === 0 || playerList.length % 2 !== 0 ? null 
+            : (<>
           <Button variant="success" 
           onClick={() => handleSubmit(playerList)}>
             Generate Tournament
-          </Button></>)}
+          </Button></>)} */}
         </>
   );
 }
