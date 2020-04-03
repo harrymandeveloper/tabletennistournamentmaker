@@ -2,13 +2,13 @@ import React from 'react';
 import Footer from './components/Footer.js';
 import FourOhFour from './components/FourOhFour.js';
 import Header from './components/Header.js';
-import Player from './components/PlayerHandling/Player.js';
 import {
   BrowserRouter as Router, 
   Switch, 
   Route,
 } from "react-router-dom";
-import ListPlayers from './components/PlayerHandling/ListPlayers.js';
+import PlayerList from './components/PlayerHandling/PlayerList.js';
+import SetupPlayers from './components/PlayerHandling/SetupPlayers.js';
 
 function App() {
   
@@ -17,9 +17,9 @@ function App() {
       <Header />
       <Switch>
   <Route exact path='/'>
-    <Player />
+    <SetupPlayers />
   </Route>
-    <ListPlayers />
+    <PlayerList />
     <FourOhFour />
     </ Switch>
       <Footer />
