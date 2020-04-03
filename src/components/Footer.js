@@ -9,8 +9,8 @@ class Footer extends Component {
         return ( 
             <>  
                 <footer>
-                <small className="col-md-12 text-center block"> &copy; 2020  
-                    Harry Man. All Rights Reserved.</small> 
+                <center><small className="col-md-12 text-center block"> &copy; 2020  
+                    Harry Man. All Rights Reserved.</small></center> 
                 </footer>
             </>
         );

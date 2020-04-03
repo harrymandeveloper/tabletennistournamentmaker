@@ -127,6 +127,9 @@ class Player extends Component {
                     </Button>
                 </Row>
           </Form>
+          <center> 
+          <img src="https://cdn.pixabay.com/photo/2016/02/18/23/26/table-tennis-1208377_960_720.jpg" />
+          </center>
         </div>
       </div>
     );
