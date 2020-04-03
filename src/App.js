@@ -6,7 +6,7 @@ import Player from './components/Player.js';
 import {
   BrowserRouter as Router, 
   Switch, 
-  // Route,
+  Route,
 } from "react-router-dom";
 import ListPlayers from './components/ListPlayers.js';
 
@@ -16,7 +16,9 @@ function App() {
     <Router>
       <Header />
       <Switch>
+  <Route exact path='/'>
     <Player />
+  </Route>
     <ListPlayers />
     <FourOhFour />
     </ Switch>
