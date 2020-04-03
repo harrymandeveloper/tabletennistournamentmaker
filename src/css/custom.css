@@ -1,0 +1,35 @@
+body p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+Button {
+margin-left: 0.75rem;
+margin-bottom: 0.75rem;
+margin-top: 0.75rem;
+}
+
+.container {
+    margin-top: 2rem;
+}
+
+.ttmainheader {
+background-image: linear-gradient(to bottom right, rgb(22, 60, 4), rgb(11, 101, 14));
+}
+
+.header__Link_text-decoration-none a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.jumbotron a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    width: 100%; 
+    max-width:900px;
+    margin: 0 auto;
+}
