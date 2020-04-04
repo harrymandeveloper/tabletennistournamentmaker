@@ -1,5 +1,5 @@
-import React, {useState} from 'react'
-import {Form, Button, Container, Row} from 'react-bootstrap'
+import React, { useState } from 'react'
+import { Form, Button, Container, Row } from 'react-bootstrap'
 
 export default ( { addPlayer } ) => {
 
@@ -22,13 +22,13 @@ export default ( { addPlayer } ) => {
                 <Form.Group>
                     <Form.Label>Add Players</Form.Label>
                     <Form.Control 
-                    onChange={handleChange} 
-                    value={playerName}></Form.Control>
+                    onChange={ handleChange } 
+                    value={ playerName } ></Form.Control>
                 </Form.Group>
                 <Row>
                     <Button 
-                        onClick={handleSubmit} 
-                        variant="primary" 
+                        onClick={ handleSubmit } 
+                        variant="success" 
                         type="submit"
                         >Add Name
                     </Button>
