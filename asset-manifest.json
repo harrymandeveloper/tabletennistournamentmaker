@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/css/main.ceeae9d3.chunk.css",
+    "main.js": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/js/main.1113264a.chunk.js",
+    "main.js.map": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/js/main.1113264a.chunk.js.map",
+    "runtime-main.js": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/js/runtime-main.99bd2801.js",
+    "runtime-main.js.map": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/js/runtime-main.99bd2801.js.map",
+    "static/js/2.34fb6334.chunk.js": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/js/2.34fb6334.chunk.js",
+    "static/js/2.34fb6334.chunk.js.map": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/js/2.34fb6334.chunk.js.map",
+    "index.html": "/harrymandeveloper.github.io/tabletennistournamentmaker/index.html",
+    "precache-manifest.b8ba871f3e73d6dc4f9db55985ba1ebf.js": "/harrymandeveloper.github.io/tabletennistournamentmaker/precache-manifest.b8ba871f3e73d6dc4f9db55985ba1ebf.js",
+    "service-worker.js": "/harrymandeveloper.github.io/tabletennistournamentmaker/service-worker.js",
+    "static/css/main.ceeae9d3.chunk.css.map": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/css/main.ceeae9d3.chunk.css.map",
+    "static/js/2.34fb6334.chunk.js.LICENSE.txt": "/harrymandeveloper.github.io/tabletennistournamentmaker/static/js/2.34fb6334.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99bd2801.js",
+    "static/js/2.34fb6334.chunk.js",
+    "static/css/main.ceeae9d3.chunk.css",
+    "static/js/main.1113264a.chunk.js"
+  ]
+}
