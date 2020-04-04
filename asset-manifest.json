@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tabletennistournamentmaker/static/css/main.ceeae9d3.chunk.css",
-    "main.js": "/tabletennistournamentmaker/static/js/main.1113264a.chunk.js",
-    "main.js.map": "/tabletennistournamentmaker/static/js/main.1113264a.chunk.js.map",
+    "main.js": "/tabletennistournamentmaker/static/js/main.0ee909ca.chunk.js",
+    "main.js.map": "/tabletennistournamentmaker/static/js/main.0ee909ca.chunk.js.map",
     "runtime-main.js": "/tabletennistournamentmaker/static/js/runtime-main.54b5eca1.js",
     "runtime-main.js.map": "/tabletennistournamentmaker/static/js/runtime-main.54b5eca1.js.map",
-    "static/js/2.34fb6334.chunk.js": "/tabletennistournamentmaker/static/js/2.34fb6334.chunk.js",
-    "static/js/2.34fb6334.chunk.js.map": "/tabletennistournamentmaker/static/js/2.34fb6334.chunk.js.map",
+    "static/js/2.422dec68.chunk.js": "/tabletennistournamentmaker/static/js/2.422dec68.chunk.js",
+    "static/js/2.422dec68.chunk.js.map": "/tabletennistournamentmaker/static/js/2.422dec68.chunk.js.map",
     "index.html": "/tabletennistournamentmaker/index.html",
-    "precache-manifest.ba89601f9dd45019d4087a3282c2588d.js": "/tabletennistournamentmaker/precache-manifest.ba89601f9dd45019d4087a3282c2588d.js",
+    "precache-manifest.0384f62b88b0e8643f455bcf1e5e696b.js": "/tabletennistournamentmaker/precache-manifest.0384f62b88b0e8643f455bcf1e5e696b.js",
     "service-worker.js": "/tabletennistournamentmaker/service-worker.js",
     "static/css/main.ceeae9d3.chunk.css.map": "/tabletennistournamentmaker/static/css/main.ceeae9d3.chunk.css.map",
-    "static/js/2.34fb6334.chunk.js.LICENSE.txt": "/tabletennistournamentmaker/static/js/2.34fb6334.chunk.js.LICENSE.txt"
+    "static/js/2.422dec68.chunk.js.LICENSE.txt": "/tabletennistournamentmaker/static/js/2.422dec68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.54b5eca1.js",
-    "static/js/2.34fb6334.chunk.js",
+    "static/js/2.422dec68.chunk.js",
     "static/css/main.ceeae9d3.chunk.css",
-    "static/js/main.1113264a.chunk.js"
+    "static/js/main.0ee909ca.chunk.js"
   ]
 }
