@@ -3,7 +3,7 @@ import Footer from './components/Footer.js';
 import FourOhFour from './components/FourOhFour.js';
 import Header from './components/Header.js';
 import {
-  BrowserRouter as Router, 
+  HashRouter as Router, 
   Switch, 
   Route,
 } from "react-router-dom";
